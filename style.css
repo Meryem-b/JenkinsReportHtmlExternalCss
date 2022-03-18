@@ -1,0 +1,23 @@
+﻿.buildReport {
+    width: 20%;
+    display: inline-block;
+    position: relative;
+    top: 32px;
+}
+
+body {
+    margin-top: 7%;
+    text-align: center;
+}
+
+h {
+    color: red;
+}
+
+h3 {
+    color: #0000ff;
+}
+
+.totalScenarios {
+    margin-top: 8%;
+}
